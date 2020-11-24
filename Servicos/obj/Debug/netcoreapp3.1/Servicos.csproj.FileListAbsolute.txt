@@ -1,0 +1,9 @@
+C:\Users\Dayane\source\repos\Servicos\bin\Debug\netcoreapp3.1\Servicos.deps.json
+C:\Users\Dayane\source\repos\Servicos\bin\Debug\netcoreapp3.1\Servicos.dll
+C:\Users\Dayane\source\repos\Servicos\bin\Debug\netcoreapp3.1\Servicos.pdb
+C:\Users\Dayane\source\repos\Servicos\obj\Debug\netcoreapp3.1\Servicos.AssemblyInfoInputs.cache
+C:\Users\Dayane\source\repos\Servicos\obj\Debug\netcoreapp3.1\Servicos.AssemblyInfo.cs
+C:\Users\Dayane\source\repos\Servicos\obj\Debug\netcoreapp3.1\Servicos.csproj.CoreCompileInputs.cache
+C:\Users\Dayane\source\repos\Servicos\obj\Debug\netcoreapp3.1\Servicos.dll
+C:\Users\Dayane\source\repos\Servicos\obj\Debug\netcoreapp3.1\Servicos.pdb
+C:\Users\Dayane\source\repos\Servicos\obj\Debug\netcoreapp3.1\Servicos.csprojAssemblyReference.cache

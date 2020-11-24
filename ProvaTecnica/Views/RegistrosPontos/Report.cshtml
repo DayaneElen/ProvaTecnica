@@ -1,0 +1,48 @@
+﻿@model List<ProvaTecnica.Models.DtoRegistroPonto>
+
+@{
+    ViewData["Title"] = "Relatorio";
+}
+
+<h1>Relatório</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Data
+            </th>
+            <th>
+                Hora
+            </th>
+            <th>
+                Usuário
+            </th>
+            <th>
+                Tipo
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Registro.ToString("dd/MM/yyyy")
+                </td>
+                <td>
+                    @item.Registro.ToString("HH:mm:ss")
+                </td>
+                <td>
+                    @item.NomeUsuario
+                </td>
+                <td>
+                    @item.Tipo
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="Index" class="btn btn-primary">Voltar</a>
