@@ -90,8 +90,7 @@ namespace ProvaTecnica.Controllers
                 return new DtoRegistroPonto()
                 {
                     Id = x.Id,
-                    /* O registro da hora abaixo teve que ser manipulado desta forma por que o banco de dados da Azure gratuito não permitiu alterar o fuso horário(O banco é criado com fuso horário padrão "(UTC) Coordinated Universal Time") , fiz o ajuste para pegar a hora local, quando é localhost funciona corretamente, mas quando é publicado, por algum motivo que ainda não consegui detectar ele mostra a hora com diferença  por isso alterei manualmente para que apresente a hora conforme o nosso fuso horário.*/
-                    Registro = data.ToLocalTime().AddHours(-3),
+                    Registro = data.ToLocalTime(),
                     NomeUsuario = x.NomeUsuario,
                     Tipo = x.Tipo
                 };
