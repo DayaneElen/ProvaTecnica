@@ -7,3 +7,12 @@ C:\Users\Dayane\source\repos\Servicos\obj\Release\netcoreapp3.1\Servicos.Assembl
 C:\Users\Dayane\source\repos\Servicos\obj\Release\netcoreapp3.1\Servicos.csproj.CoreCompileInputs.cache
 C:\Users\Dayane\source\repos\Servicos\obj\Release\netcoreapp3.1\Servicos.dll
 C:\Users\Dayane\source\repos\Servicos\obj\Release\netcoreapp3.1\Servicos.pdb
+C:\Users\Dayane\source\repos\GitHub\Servicos\bin\Release\netcoreapp3.1\Servicos.deps.json
+C:\Users\Dayane\source\repos\GitHub\Servicos\bin\Release\netcoreapp3.1\Servicos.dll
+C:\Users\Dayane\source\repos\GitHub\Servicos\bin\Release\netcoreapp3.1\Servicos.pdb
+C:\Users\Dayane\source\repos\GitHub\Servicos\obj\Release\netcoreapp3.1\Servicos.csprojAssemblyReference.cache
+C:\Users\Dayane\source\repos\GitHub\Servicos\obj\Release\netcoreapp3.1\Servicos.AssemblyInfoInputs.cache
+C:\Users\Dayane\source\repos\GitHub\Servicos\obj\Release\netcoreapp3.1\Servicos.AssemblyInfo.cs
+C:\Users\Dayane\source\repos\GitHub\Servicos\obj\Release\netcoreapp3.1\Servicos.csproj.CoreCompileInputs.cache
+C:\Users\Dayane\source\repos\GitHub\Servicos\obj\Release\netcoreapp3.1\Servicos.dll
+C:\Users\Dayane\source\repos\GitHub\Servicos\obj\Release\netcoreapp3.1\Servicos.pdb

@@ -5699,11 +5699,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dayane\\source\\repos\\Servicos\\Servicos.csproj",
+      "projectUniqueName": "C:\\Users\\Dayane\\source\\repos\\GitHub\\Servicos\\Servicos.csproj",
       "projectName": "Servicos",
-      "projectPath": "C:\\Users\\Dayane\\source\\repos\\Servicos\\Servicos.csproj",
+      "projectPath": "C:\\Users\\Dayane\\source\\repos\\GitHub\\Servicos\\Servicos.csproj",
       "packagesPath": "C:\\Users\\Dayane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dayane\\source\\repos\\Servicos\\obj\\",
+      "outputPath": "C:\\Users\\Dayane\\source\\repos\\GitHub\\Servicos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

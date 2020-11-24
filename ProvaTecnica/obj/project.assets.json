@@ -8938,11 +8938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dayane\\source\\repos\\ProvaTecnica\\ProvaTecnica.csproj",
+      "projectUniqueName": "C:\\Users\\Dayane\\source\\repos\\GitHub\\ProvaTecnica\\ProvaTecnica.csproj",
       "projectName": "ProvaTecnica",
-      "projectPath": "C:\\Users\\Dayane\\source\\repos\\ProvaTecnica\\ProvaTecnica.csproj",
+      "projectPath": "C:\\Users\\Dayane\\source\\repos\\GitHub\\ProvaTecnica\\ProvaTecnica.csproj",
       "packagesPath": "C:\\Users\\Dayane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dayane\\source\\repos\\ProvaTecnica\\obj\\",
+      "outputPath": "C:\\Users\\Dayane\\source\\repos\\GitHub\\ProvaTecnica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8961,8 +8961,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Dayane\\source\\repos\\Servicos\\Servicos.csproj": {
-              "projectPath": "C:\\Users\\Dayane\\source\\repos\\Servicos\\Servicos.csproj"
+            "C:\\Users\\Dayane\\source\\repos\\GitHub\\Servicos\\Servicos.csproj": {
+              "projectPath": "C:\\Users\\Dayane\\source\\repos\\GitHub\\Servicos\\Servicos.csproj"
             }
           }
         }
